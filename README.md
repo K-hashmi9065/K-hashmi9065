@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kamran Hashmi</h1>
 <h3 align="center">A Passionate Flutter Developer or Mobile Application Dev</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/K-hashmi9065/K-hashmi9065/blob/main/flutter.png">
+<img align="right" contr alt="Coding" width="400" src="https://github.com/K-hashmi9065/K-hashmi9065/blob/main/flutterGifff.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-hashmi9065&label=Profile%20views&color=0e75b6&style=flat" alt="k-hashmi9065" /> </p>
 
